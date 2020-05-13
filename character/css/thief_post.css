@@ -1,0 +1,202 @@
+/*White Box post data css*/
+
+#characterName{
+    position:absolute;
+    top: 125px;
+    left: 70px;
+	font-size: 0.75em;
+}
+
+#gender{
+    position:absolute;
+    top: 125px;
+    left: 260px;
+	font-size: 0.75em;
+}
+
+
+#alignment{
+    position:absolute;
+    top: 125px;
+    left: 360px;
+	font-size: 0.75em;
+}
+
+
+#title{
+    position:absolute;
+    top: 170px;
+    left: 295px;
+	font-size: 0.75em;
+}
+
+
+#playerName{
+    position:absolute;
+    top: 145px;
+    left: 430px;
+	font-size: 1em;
+}
+
+
+#armourName{
+    position:absolute;
+    top: 880px;
+    left: 65px;
+	font-size: 0.65em;
+}
+
+#armourAc{
+    position:absolute;
+    top: 800px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#armourWeight{
+    position:absolute;
+    top: 800px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+#shieldName{
+    position:absolute;
+    top: 620px;
+    left: 804px;
+	font-size: 1.3em;
+}
+
+#shieldAc{
+    position:absolute;
+    top: 820px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#shieldWeight{
+    position:absolute;
+    top: 820px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#weaponsList{
+    position:absolute;
+    top: 600px;
+    left: 70px;
+	font-size: 0.65em;
+}
+
+#weaponsList2{
+    position:absolute;
+    top: 600px;
+    left: 250px;
+	font-size: 0.65em;
+}
+
+
+
+#totalArmourClassMod{
+    position:absolute;
+    top: 855px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+#totalArmourWeight{
+    position:absolute;
+    top: 820px;
+    left: 305px;
+	font-size: 0.5em;
+}
+
+#gearWeight{
+    position:absolute;
+    top: 832px;
+    left: 485px;
+	font-size: 0.5em;
+}
+
+
+
+#weaponNotes{
+    position:absolute;
+    top: 1143px;
+    left: 610px;
+	font-size: 0.4em;
+}
+
+
+#gearList{
+    position:absolute;
+    top: 395px;
+    left: 600px;
+    font-size: 0.6em;
+    width: 310px;
+}
+
+
+
+#move{
+    position:absolute;
+    top: 1072px;
+    left: 165px;
+	font-size: 1em;
+}
+
+#abilityScoreGeneration{
+    position:absolute;
+    top: 1210px;
+    left: 60px;
+	font-size: 0.5em;
+}
+
+
+
+#luckyWeapon{
+    position:absolute;
+    top: 599px;
+    left: 475px;
+	font-size: 0.6em;
+}
+
+
+#baseAC{
+    position:absolute;
+    top: 620px;
+    left: 645px;
+	font-size: 0.6em;
+}
+
+
+#trainedWeapon{
+    position:absolute;
+    top: 640px;
+    left: 645px;
+	font-size: 0.6em;
+}
+
+
+#tradeGoods{
+    position:absolute;
+    top: 660px;
+    left: 645px;
+	font-size: 0.6em;
+}
+
+
+
+#level{
+    position:absolute;
+    top: 170px;
+    left: 230px;
+	font-size: 0.75em;
+}
+
+
+
+
