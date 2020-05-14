@@ -1,0 +1,41 @@
+
+.contentBasic {
+	
+width: 650px;
+margin: 0px auto;
+}
+
+
+.generatorbuttons2 {
+	margin: 10px;
+    width: 160px;
+    height: 50px;
+    border-radius: 5px;
+}
+	
+
+#generateBasicClass {
+	background-image: url(../images/buttons/fighter_button.png);
+	margin-left: 25px;
+  /*  width: 160px;
+    height: 50px;
+    border-radius: 5px;*/
+
+}
+
+#generateBasicClass:hover {
+	background-image: url(../images/buttons/fighter_button2.png);
+
+}
+
+
+#resetBasicClass {
+	background-image: url(../images/buttons/reset_button.png);
+	margin-left: 25px;
+
+}
+
+#resetBasicClass:hover {
+	background-image: url(../images/buttons/reset_button2.png);
+
+}
