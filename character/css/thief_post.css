@@ -167,7 +167,7 @@
 
 #baseAC{
     position:absolute;
-    top: 620px;
+    top: 595px;
     left: 645px;
 	font-size: 0.6em;
 }
@@ -175,7 +175,7 @@
 
 #trainedWeapon{
     position:absolute;
-    top: 640px;
+    top: 615px;
     left: 645px;
 	font-size: 0.6em;
 }
@@ -183,7 +183,7 @@
 
 #tradeGoods{
     position:absolute;
-    top: 660px;
+    top: 635px;
     left: 645px;
 	font-size: 0.6em;
 }

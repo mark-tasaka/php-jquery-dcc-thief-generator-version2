@@ -315,3 +315,94 @@ body{
     left:  50px;
 	font-size: 0.5em;
 }
+
+#backstab{
+    position:absolute;
+    top: 595px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#sneakSilently{
+    position:absolute;
+    top: 618px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#hideInShadows{
+    position:absolute;
+    top: 641px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#pickPocket{
+    position:absolute;
+    top: 664px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#climb{
+    position:absolute;
+    top: 685px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#pickLock{
+    position:absolute;
+    top: 707px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#findTrap{
+    position:absolute;
+    top: 730px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#disableTrap{
+    position:absolute;
+    top: 752px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#forgeDoc{
+    position:absolute;
+    top: 775px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#disguiseSelf{
+    position:absolute;
+    top: 798px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#readLanguages{
+    position:absolute;
+    top: 820px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#handlePoison{
+    position:absolute;
+    top: 843px;
+    left: 545px;
+    font-size: 0.7em;
+}
+
+#castSpellScroll{
+    position:absolute;
+    top: 865px;
+    left: 535px;
+    font-size: 0.65em;
+}
